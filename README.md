@@ -1,19 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3fa8ff&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4495ff&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+my+name+is+Gabriel+Pedro-lopes21;I'm+22+years+old;I+am+from+São+Paulo,+SP;+Junior+Developer;+Degree+in+Systems+Analysis+and+Development;Welcome!+:%29)](https://git.io/typing-svg) 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046538&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11B24B&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+my+name+is+Gabriel+Pedro-lopes21;I'm+22+years+old;I+am+from+São+Paulo,+SP;+Junior+Developer;+Degree+in+Systems+Analysis+and+Development;Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <a href="https://linkedin.com/in/gabrielPedro-lopes21" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrohenriquejob/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedro-lopes21&show_icons=true&count_private=true&hide_border=true&title_color=4495ff&icon_color=4495ff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Pedro-lopes21 github stats" /> 
-  <img width="28%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-lopes21&layout=compact&hide_border=true&title_color=4495ff&text_color=4495ff&bg_color=0d1117&cache_seconds=1800" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedro-lopes21&show_icons=true&count_private=true&hide_border=true&title_color=11B24B&icon_color=046538&text_color=046538&bg_color=0d1117" alt="Gabriel Pedro-lopes21 github stats" /> 
+  <img width="28%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-lopes21&layout=compact&hide_border=true&title_color=046538&text_color=046538&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
-[![Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-lopes21&bg_color=0d0d0d&color=4495ff&line=4c70ff&point=007fff&area=3b7eff&hide_border=true&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-lopes21&bg_color=0d0d0d&color=11B24B&line=046538&point=11B24B&area=046538&hide_border=true&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -52,4 +52,4 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3fa8ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046538&height=120&section=footer"/>
