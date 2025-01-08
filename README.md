@@ -3,13 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11B24B&size=35&center=true&vCenter=true&width=1000&lines=Hey+friends,+my+name+is+Pedro;I+was+born+and+raised+in+São+Paulo,+SP;I+am+21+years+old;And+I+am+an+IT+intern;+Study+Computer+Science+at+UNIP;Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedro-lopes21&show_icons=true&count_private=true&hide_border=true&title_color=11B24B&icon_color=046538&text_color=046538&bg_color=0d1117" alt="Gabriel Pedro-lopes21 github stats" /> 
   <img width="28%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-lopes21&layout=compact&hide_border=true&title_color=046538&text_color=046538&bg_color=0d1117&cache_seconds=1800" />
